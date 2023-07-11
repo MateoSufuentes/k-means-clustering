@@ -174,3 +174,6 @@ if __name__ == "__main__":
         counter = counter + 1
 
     final_graph(x_norm, y_norm, CurrentCluster.num_clusters, CurrentCluster.reference_points, CurrentCluster.linked_reference_index)
+
+
+    print("TESTING")
