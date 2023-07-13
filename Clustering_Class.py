@@ -51,7 +51,7 @@ class Clustering:
       # Transfers to 1D array
       new_has_ref_cluster = has_ref_cluster[0,:]
 
-      # Divies x and y values into two separate arrays
+      # Divides x and y values into two separate arrays
       x = np.array(self.data_points.iloc[:,0])
       y = np.array(self.data_points.iloc[:,1])
 
